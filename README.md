@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Hello, I'm Deepak Soni!
 
-<!--
-**deepakgitinit/deepakgitinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full Stack Developer | Final Year MCA Student
 
-Here are some ideas to get you started:
+🎓 Graduating with a Master's in Computer Applications (MCA) soon, I'm passionate about crafting innovative solutions through code. With a strong foundation in both front-end and back-end development, I thrive on tackling complex problems and delivering user-friendly experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently, I'm honing my skills as a full-stack developer, adept at utilizing technologies like HTML/CSS, JavaScript, React, Node.js (express), MongoDB, etc. My projects range from building dynamic web applications to designing efficient database architectures.
+
+🌟 I'm enthusiastic about learning and contributing to open-source projects. Let's connect and collaborate on exciting ventures!
+
+📫 Feel free to reach out to me via:
+
+✉️ Email: contact@deepaksoni.dev
+🔗 Linkedin: <a href="www.linkedin.com/in/deepaksonidev">Linkedin</a>
+🔗 Twitter: <a href="www.twitter.com/deepaksonidev">Linkedin</a>
+
+Happy Coding! 🚀
