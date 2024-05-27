@@ -12,6 +12,6 @@
 
 ✉️ Email: contact@deepaksoni.dev
 🔗 Linkedin: <a href="www.linkedin.com/in/deepaksonidev">Linkedin</a>
-🔗 Twitter: <a href="www.twitter.com/deepaksonidev">Linkedin</a>
+🔗 X: <a href="www.x.com/deepaksonidev">X</a>
 
 Happy Coding! 🚀
